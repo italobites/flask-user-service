@@ -26,8 +26,8 @@ A ideia é: criar e listar usuários, com os dados sendo salvos no banco mesmo d
 ### 1 - Clonar o repositório
 
 ```bash
-git clone <url-repo>
-cd <repo>
+git clone https://github.com/italobites/flask-user-service.git
+cd flask-user-service
 ```
 
 ---
